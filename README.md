@@ -13,8 +13,13 @@ I spend a considerable amount of time relentlessly looking for new songs to fall
 Tools
 
 Web scraping: BeautifulSoup, HTML, JSON
+
 Databases: Google Cloud postgreSQL, IBM Cloud Db2, SQL, pandas
+
 API: Spotify API, tekore
-Test statistics: SciPy, statsmodels, Q-Q plot, Mann-Whitbey U test, Shapiro-Wilk test, p-value
+
+Test statistics: SciPy, statsmodels, Q-Q plot, Mann-Whitney U test, Shapiro-Wilk test, p-value
+
 Machine learning: scikit-learn, NumPy, Hierarchical Clustering Analysis, Euclidian distance, PyTorch
+
 Plots: Matplotlib, Plotly
